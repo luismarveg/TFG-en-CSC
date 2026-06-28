@@ -1,4 +1,4 @@
-# TFG-en-CSC
+# TFG en CSC
 
 Este repositorio contiene los códigos y scripts de simulación desarrollados para el Trabajo Fin de Grado en Física titulado **"Análisis de un modelo estocástico de células madre cancerígenas"**, realizado en la **Facultad de Ciencias de la Universidad de Córdoba**.
 
