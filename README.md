@@ -18,7 +18,6 @@ python -m venv .venv
 # Instalar dependencias 
 pip install -r requirements.txt
 ```
-*(Nota: Asegúrate de crear el archivo `requirements.txt` con las librerías necesarias de tu proyecto, como `numpy`, `matplotlib`, `scipy`, etc.)*
 
 ## Códigos y Experimentos
 
